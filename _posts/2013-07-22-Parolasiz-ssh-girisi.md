@@ -7,8 +7,6 @@ comments: false
 categories: ssh debian ubuntu
 ---
 
-#Parolasız SSH Girişi
-
 Otomasyon işlemlerinin vazgeçilmezi parolasız SSH girişi işini her seferinde sıfırdan Google ile arayarak yapıyordum. Güzelce not alalım ki tekrar aramayalım.
 
 Öncelikle bir ssh key üretiyoruz. Üretirken passphrase girmiyoruz. Girersek bu kez SSH girişinde bize bu passphrase sorulacak. Biz bunu istemiyoruz. Sorduğunda boş geçiyoruz.
