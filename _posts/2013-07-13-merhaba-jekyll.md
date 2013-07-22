@@ -7,8 +7,6 @@ comments: false
 categories: ruby jekyll
 ---
 
-#Merhaba Jekyll
-
 Uzun zamandır güncellemediğim bloğuma artık hakettiği önemi vermenin zamanı geldi. Becerebilirsen artık daha sık güncelleyeceğim. Blogger üzerinde host ettiğim bloğumu da bu süreçte yenilemek istedim. Mevcut hali ile çok fazla müdehale edemediğim bloğumu daha hacker dostu bir şey ile değiştirmek istediğimde aklıma ilk Jekyll geldi. Bir süredir, Github'ın da sayesinde adını duyuyordum. Ama ne yalan söyleyeyim bu kadar kolay olacağını sanmamıştım. Bu yazıda bloğumu Blogger üzerinden Github Pages üzerine Jekyll kullanarak nasıl aktardığımı anlatmaya çalışcağım.
 
 Öncelikle sisteminizde ruby gems kurulu olduğunu düşünüyorum ve bu kısmı geçiyorum. Ama ruby ve rubygems kurulumu ile ilgili olarak Ubuntu platformu için güzel bir rehber [burada var.](https://help.ubuntu.com/community/RubyOnRails/ "Ruby installation on Ubuntu")
