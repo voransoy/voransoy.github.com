@@ -23,7 +23,7 @@ Ardından bu keyi bağlanacağımız sunuculara, yetkilendirilmiş kullanıcı o
 ssh-copy-id -i ~/.ssh/id_rsa.pub root@1.1.1.1
 {% endhighlight %}
 
-1.1.1.1 bizim bağlanacağımız sunucu. Sunucunun root parolasını girince gerekli işlemler otomatik yapılacak. Artık sadece tek komut ile SSH bağlantısı yapabiliriz.
+"1.1.1.1" bizim bağlanacağımız sunucu. Sunucunun root parolasını girince gerekli işlemler otomatik yapılacak. Artık sadece tek komut ile SSH bağlantısı yapabiliriz.
 
 {% highlight bash %}
 ssh root@1.1.1.1
